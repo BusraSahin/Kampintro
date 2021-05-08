@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP2
 {
-    class CustomerManager:Customer
+    class CustomerManager
     {
         public void Add(Customer customer)
         {
